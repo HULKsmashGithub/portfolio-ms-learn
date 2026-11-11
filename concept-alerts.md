@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Learn about Global Secure Access Alerts
 description: "Learn how Global Secure Access alerts notify you about security issues and operational concerns, helping to strengthen your organization's security posture."
 author: HULKsmashGithub
@@ -58,5 +59,6 @@ You can also view the **Alerts** widget in the [Global Secure Access dashboard](
 
 ## Related content
 - [Global Secure Access dashboard](concept-traffic-dashboard.md)
+
 
 

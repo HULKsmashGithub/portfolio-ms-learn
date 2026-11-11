@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Create a custom Data Loss Prevention profile with the Global Secure Access and Netskope integration"
 description: "Learn how to protect your organization with a custom Data Loss Prevention (DLP) profile powered by Netskope."
 author: HULKsmashGithub
@@ -78,5 +79,6 @@ Netskope’s DLP offering is a value-added enhancement to Microsoft Entra Intern
 
 ## Related content
 - [Global Secure Access integration with Netskope's Advanced Threat Protection and Data Loss Prevention](concept-netskope-integration.md)
+
 
 

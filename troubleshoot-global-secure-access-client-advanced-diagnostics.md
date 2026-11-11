@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Troubleshoot the Global Secure Access Client for Windows: Advanced Diagnostics"
 description: Troubleshoot the Global Secure Access client using the health check tab in the advanced diagnostics utility.
 ms.topic: troubleshooting
@@ -161,5 +162,6 @@ You might need to use your own device to analyze the data your users collect. To
 
 ## Related content
 - [Troubleshoot the Global Secure Access Mobile Client: Advanced Diagnostics](troubleshoot-global-secure-access-mobile-client-advanced-diagnostics.md)
+
 
 

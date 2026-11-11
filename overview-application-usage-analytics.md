@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Application Usage Analytics Overview
 description: "Gain visibility into application traffic to gain insights into app categories, risk scores, transactions, and organizational usage patterns."
 author: HULKsmashGithub
@@ -88,5 +89,6 @@ The **Usage** tab opens, showing a graph with usage information, including the n
 
 ## Related content
 - [Application discovery for Global Secure Access](how-to-application-discovery.md)
+
 
 

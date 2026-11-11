@@ -1,4 +1,5 @@
 ---
+layout: default
 ms.author: jayrusso
 author: HULKsmashGithub
 manager: dougeby
@@ -20,5 +21,6 @@ This enforcement means:
 > To avoid unintended traffic loss, associate **both** the **Microsoft traffic profile** and the **Internet Access traffic profile** with your remote network if your license permits. This configuration ensures that the appropriate profile handles all traffic forwarded over the IPsec tunnel rather than silently dropping it at the gateway.
 
 For details on available traffic forwarding profiles and their configuration, see [Global Secure Access traffic forwarding profiles](/entra/global-secure-access/concept-traffic-forwarding).
+
 
 
